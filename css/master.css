@@ -1618,7 +1618,7 @@ padding-top: 23px;
     }
 @media (max-width:768px) {
     .wrapper-four{
-        display: grid;
+        
         grid-template-columns: repeat(auto-fill,minmax(200px ,1fr));
         margin: 0px 10px;
     }

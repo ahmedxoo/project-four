@@ -230,7 +230,8 @@ textarea{
     .page .content .wrapper{
         gap: 10px;
         padding-left: 0px;
-        margin-right: 0px;
+        margin-right: 0px !important;
+        padding-right: 15px;
         margin-left: 10px;
         margin-right: 10px;
         grid-template-columns: minmax(200px, 1fr);

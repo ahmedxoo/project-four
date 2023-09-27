@@ -1,0 +1,99 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en"
+      >
+<head>
+    <meta http-equiv="Content-Type"
+          content="text/html; charset=utf-8">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Download Opera for computers - Opera</title>
+    <link rel="stylesheet" href="https://cdn-production-opera-website.operacdn.com/staticfiles/CACHE/css/output.b26a6e22d45e.css" type="text/css" media="all">
+    <meta name="description"
+          content="
+
+                  Download the fast, free and safe Opera computer browser, enabling faster browsing, better desktop organization and customization options.">
+    
+
+<!-- Google Tag Manager dataLayer init -->
+<script>
+    dataLayer = [];
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+        'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-PRBZ42F');</script>
+<!-- End Google Tag Manager -->
+
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRBZ42F"
+            height="0"
+            width="0"
+            style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="header"
+     class="pa3 mb5 text-align--left">
+    <a class="ty" href="/legacy-thanks?ni=stable&amp;os=mac" itemprop="downloadURL">
+        <img class="logo"
+             src="https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/pages/legacy/opera-logo.67cdff761dca.gif"
+             alt="Opera"
+             width="108"
+             height="40">
+    </a>
+</div>
+<div id="main"
+     class="py5 text-align--center">
+    <h1 class="mb5">Opera Browser for Mac</h1>
+    <p>Get the fast, secure and easy-to-use Opera Browser.</p>
+    <div class="my5">
+        <span class="download-button--wrapper download-button--desktop
+        download-button--full ">
+            <a
+                        href="/legacy-thanks?ni=stable&amp;os=mac"
+                        class="button os-mac"
+                        data-platform="auto"
+                        rel="nofollow"
+                        data-alternative="None"
+                        itemprop="downloadURL">
+                Download now
+            </a>
+        </span>
+    </div>
+    <a class="ty"
+       data-platform="auto"
+       rel="nofollow"
+       data-alternative="None"
+       itemprop="downloadURL"
+       href="/legacy-thanks?ni=stable&amp;os=mac"
+    >
+        <img src="https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/pages/legacy/opera-legacy.3f31f52dc10d.png"
+             alt="Laptop"
+             width="600">
+    </a>
+</div>
+
+    <script src="https://cdn-production-opera-website.operacdn.com/staticfiles/CACHE/js/output.67b12ef84a5d.js"></script>
+
+</body>
+</html>

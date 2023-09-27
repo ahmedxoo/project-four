@@ -1535,6 +1535,13 @@ color: var(--text-color);
     gap: 10px;
 
 }
+@media (max-width:768px) {
+    .wrapper-four{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+}
 .wrapper-four .large{
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(200px ,1fr));
